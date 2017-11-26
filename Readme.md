@@ -14,12 +14,15 @@
     > All being are mortal.  P1   
     I am human being.  P2  
     Therefore, I am mortal.    = C  
-+ [`Validity` Vs `Sound`](#validity-and-soundness)
-+ [`Epistemology`](#epistemology)
-
++ [`Validity` Vs `Sound`](#validity-and-soundness)  
 + `Counter Example`
     - one example that disapproves general statement.
     - "2 is counterexample to statement 'add prime number are odd`"
++ [`Epistemology`](#epistemology)
++ `Coherentism`
+    - "implies that for a belief to be justified it must belong to a coherent system of beliefs. For a system of beliefs to be coherent, the beliefs that make up that system must "cohere" with one another." 
++ [`Foundationalism`](#foundationalism)
+    - "view that there are certain truths which can be known and which serve as the basis for further knowledge."
 
 ### Validity and Soundness ###
 Validity is when conclusion follows the premise. It does not check weather the premise is true or false.
@@ -48,7 +51,7 @@ The above statement, USA is not a country is false.(we know). then we can tell A
 lets say Sandy just flips a coin when asked if it is Monday? If it is head, she say YES and if it is tails, she says, NO. Suppose, today is Monday, you ask if today is Monday? she flips and gets head and she says yes. She maybe right is this case, but can we say she knows knows that today is Monday? So, we need to look at the **truth finding mechanism**. The process of finding in this case was not justifiable.  
 As **Plato** says, to consider something as knowledge, it needs to be Justifiable True Belief(JTB)
 
-+ `Epistemology` _a-pist-ta-ma-logy_ : theory of knowledge whether belief can be classified as knowledge.  
++ `Epistemology` (_a-pist-ta-ma-logy_) : theory of knowledge whether belief can be classified as knowledge.  
 
 
 
@@ -62,13 +65,15 @@ This is where the logic to of **Regress Argument** comes in.
 
 However, if we put basic premise to other justification. Then how can one decide which premise needs another justification. If we are to apply same rule, then we have same infinite argument problem. If we apply another rule, then we have another problem of which is basic premise or where to stop. So, we have not solved the problem we have.  
 
-> Plato's student, **Aristotle** (384-322 B.C.E) — tried to avoid this problem in his Posterior Analytics by grounding justification in propositions that do not need further justification because they contain their justification within themselves. These **'self-justifying'** propositions can thus be known to be true by 'intuition'. Axioms of mathematical proofs are the most obvious examples of self-evident or intuitively known propositions. They are the starting point for proofs, and not themselves the product of further proofs.  
+> Plato's student, **Aristotle** (384-322 B.C.E) — tried to avoid this problem in his 'Posterior Analytics' by grounding justification in propositions that do not need further justification because they contain their justification within themselves. These **'self-justifying'** propositions can thus be known to be true by 'intuition'. Axioms of mathematical proofs are the most obvious examples of self-evident or intuitively known propositions. They are the starting point for proofs, and not themselves the product of further proofs.  
 
 Classic example: **I think, therefore, I am.**  So, how do we halt the problem of regress argument?
 
-_Being lazy and just quoting from the course :)_
+### Foundationalism ###
 
-> They do this by identifying a class of foundational propositions that could be known to be true without further justification and which would serve as the basis upon which the rest of our knowledge could be built.  
+_Being lazy and just quoting from the course :) See above quote for further clarification._
+
+> They(philosophers) do this by identifying a class of foundational propositions that could be known to be true without further justification and which would serve as the basis upon which the rest of our knowledge could be built.  
 
 
 
