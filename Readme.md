@@ -14,8 +14,8 @@
     > All being are mortal.  P1   
     I am human being.  P2  
     Therefore, I am mortal.    = C  
-+ [`Validity` Vs `Sound`](#Validity-and-Soundness)
-+ [`Epistemology`](#Epistemology)
++ [`Validity` Vs `Sound`](#validity-and-soundness)
++ [`Epistemology`](#epistemology)
 
 + `Counter Example`
     - one example that disapproves general statement.
